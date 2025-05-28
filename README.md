@@ -460,6 +460,7 @@ int main(void) {
     HAL_Delay(100); // Delay
   }
 }
+```
 
 ## 📈 Data Waveforms
 ### 2. Data Transmission
@@ -467,7 +468,6 @@ int main(void) {
 
 ### 3. CLOCK
 ![Clock](Assets/SCL.bmp)
-```
 
 ## 🤔 Troubleshooting Tips
 
