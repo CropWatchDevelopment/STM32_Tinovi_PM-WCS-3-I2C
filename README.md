@@ -463,10 +463,10 @@ int main(void) {
 
 ## 📈 Data Waveforms
 ### 2. Data Transmission
-![Data Transmission](assets/SDA.png)
+![assets/SDA.bmp](Data Transmission)
 
 ### 3. CLOCK
-![CLOCK](assets/SCL.png)
+![assets/SCL.bmp](Clock)
 ```
 
 ## 🤔 Troubleshooting Tips
