@@ -463,10 +463,10 @@ int main(void) {
 ```
 
 ## 📈 Data Waveforms
-### 2. Data Transmission
+### 📩 Data Transmission
 ![Data Transmission](Assets/SDA.bmp)
 
-### 3. CLOCK
+### ⏲️ CLOCK
 ![Clock](Assets/SCL.bmp)
 
 ## 🤔 Troubleshooting Tips
@@ -479,8 +479,3 @@ int main(void) {
 *   **Debugging**: Use a debugger or print statements (e.g., via UART) to trace the execution flow and check variable values.
 
 Happy sensing! 🎉
-### 2. Data Transmission
-![Data Transmission](assets/SDA.bmp)
-
-### 3. Acknowledgment
-![Acknowledgment](assets/acknowledgment.png)
