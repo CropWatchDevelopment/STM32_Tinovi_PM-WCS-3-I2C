@@ -460,6 +460,13 @@ int main(void) {
     HAL_Delay(100); // Delay
   }
 }
+
+## 📈 Data Waveforms
+### 2. Data Transmission
+![Data Transmission](assets/SDA.png)
+
+### 3. CLOCK
+![CLOCK](assets/SCL.png)
 ```
 
 ## 🤔 Troubleshooting Tips
@@ -472,3 +479,8 @@ int main(void) {
 *   **Debugging**: Use a debugger or print statements (e.g., via UART) to trace the execution flow and check variable values.
 
 Happy sensing! 🎉
+### 2. Data Transmission
+![Data Transmission](assets/data_transmission.png)
+
+### 3. Acknowledgment
+![Acknowledgment](assets/acknowledgment.png)
