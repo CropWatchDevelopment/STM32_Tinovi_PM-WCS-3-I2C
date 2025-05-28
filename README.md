@@ -480,7 +480,7 @@ int main(void) {
 
 Happy sensing! 🎉
 ### 2. Data Transmission
-![Data Transmission](assets/data_transmission.png)
+![Data Transmission](assets/SDA.bmp)
 
 ### 3. Acknowledgment
 ![Acknowledgment](assets/acknowledgment.png)
